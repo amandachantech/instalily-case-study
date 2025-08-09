@@ -1,4 +1,4 @@
-# Instalily Case Study (English Version)
+# Instalily Case Study
 
 ## 📌 Project Overview
 This project is an **appliance parts customer support assistant** case study, simulating an intelligent customer service system that can instantly answer questions related to appliance parts. The data source is the **PartSelect dataset** (`partselect_parts.json`).  
