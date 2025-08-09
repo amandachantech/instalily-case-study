@@ -1,5 +1,8 @@
 # Instalily Case Study
 
+## Demo Video
+https://www.loom.com/share/13120964c7534b63974e4571b0f493eb?sid=edf7104f-a3c7-49f9-9517-dbe08958a583
+
 ## 📌 Project Overview
 This project is an **appliance parts customer support assistant** case study, simulating an intelligent customer service system that can instantly answer questions related to appliance parts. The data source is the **PartSelect dataset** (`partselect_parts.json`).  
 The system can handle the following types of queries:
