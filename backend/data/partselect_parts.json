@@ -1,0 +1,15 @@
+{
+    "PS11752778": {
+      "name": "Water Inlet Valve",
+      "type": "Dishwasher",
+      "install_instructions": "1. Turn off water and power.\n2. Remove the old valve.\n3. Install the new valve.\n4. Reconnect hoses.",
+      "compatible_models": ["WDT780SAEM1", "WDF520PADM7", "WDT970SAHZ0"]
+    },
+    "PS11740307": {
+      "name": "Refrigerator Door Bin",
+      "type": "Refrigerator",
+      "install_instructions": "1. Align the bin with door shelf rails.\n2. Snap firmly into place.\n3. No tools required.",
+      "compatible_models": ["KBFS25EWMS5", "MFI2569YEM0", "ASD2575BRS01"]
+    }
+  }
+  
