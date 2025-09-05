@@ -1,4 +1,4 @@
-# Instalily Case Study
+# AI-Customer-Support-Assistant
 
 ## Demo Video
 https://www.loom.com/share/13120964c7534b63974e4571b0f493eb?sid=edf7104f-a3c7-49f9-9517-dbe08958a583
